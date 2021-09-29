@@ -96,6 +96,8 @@ This parameter controls which objects are returned.
 Details on querying with oData can be found here.
 http://www.odata.org/documentation/odata-version-3-0/odata-version-3-0-core-protocol/#queryingcollections
 
+NOTE: only startswith function is currently supported.
+
 ```yaml
 Type: String
 Parameter Sets: GetQuery
